@@ -13,7 +13,9 @@ bitmapfonts = {
 		name = "mapfont_small"
 		fontfiles = { 
 			"gfx/fonts/vic_22_bl"
-			"gfx/fonts/Arial_20"	
+			"gfx/fonts/Arial_20_1"	
+			"gfx/fonts/Arial_20_2"	
+			"gfx/fonts/Arial_20_3"		
 		}
 	languages = { "l_english" } 
 	}	
@@ -32,7 +34,9 @@ bitmapfonts = {
 		name = "Main_24"
 		fontfiles = { 
 			"gfx/fonts/garamond_24"
-			"gfx/fonts/Arial_20"	
+			"gfx/fonts/Arial_20_1"	
+			"gfx/fonts/Arial_20_2"	
+			"gfx/fonts/Arial_20_3"	
 		}
 	languages = { "l_english" } 
 	
@@ -112,7 +116,9 @@ bitmapfonts = {
 		name = "vic_22"
 		fontfiles = { 
 			"gfx/fonts/vic_22"
-			"gfx/fonts/Arial_20"	
+			"gfx/fonts/Arial_20_1"	
+			"gfx/fonts/Arial_20_2"	
+			"gfx/fonts/Arial_20_3"	
 		}
 	languages = { "l_english" } 
 	}
@@ -121,7 +127,9 @@ bitmapfonts = {
 		name = "vic_36"
 		fontfiles = { 
 			"gfx/fonts/vic_36"	
-			"gfx/fonts/Arial_26"		
+			"gfx/fonts/Arial_26_1"	
+			"gfx/fonts/Arial_26_2"	
+			"gfx/fonts/Arial_26_3"			
 		}		
 	languages = { "l_english" } 
 	}		
@@ -161,7 +169,9 @@ bitmapfonts = {
 		fontfiles = { 
 			"gfx/fonts/hoi_18mbs"
 			"gfx/fonts/hoi_18mbs_cryllic"
-			"gfx/fonts/Arial_16s"	
+			"gfx/fonts/Arial_16s_1"	
+			"gfx/fonts/Arial_16s_2"	
+			"gfx/fonts/Arial_16s_3"	
 		}	
 	languages = { "l_english" } 
 	}			
@@ -178,8 +188,10 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "hoi_20bs"
 		fontfiles = { 
-			"gfx/fonts/hoi_20bs"		
-			"gfx/fonts/Arial_16s"	
+			"gfx/fonts/hoi_20bs"	
+			"gfx/fonts/Arial_16s_1"	
+			"gfx/fonts/Arial_16s_2"	
+			"gfx/fonts/Arial_16s_3"	
 		}		
 	languages = { "l_english" } 
 	}		
@@ -189,6 +201,8 @@ bitmapfonts = {
 		fontfiles = { 	
 			"gfx/fonts/hoi4_typewriter16"
 			"gfx/fonts/hoi_16typewriter"
+			"gfx/fonts/typewriter16"
+			"gfx/fonts/16typewriter"
 			"gfx/fonts/Arial_14b"	
 		}		
 	languages = { "l_english" } 
@@ -199,7 +213,11 @@ bitmapfonts = {
 		fontfiles = { 
 			"gfx/fonts/hoi4_typewriter22"		
 			"gfx/fonts/hoi_22typewriter"
-			"gfx/fonts/Arial_20b"	
+			"gfx/fonts/typewriter22"		
+			"gfx/fonts/22typewriter"
+			"gfx/fonts/Arial_20b_1"	
+			"gfx/fonts/Arial_20b_2"	
+			"gfx/fonts/Arial_20b_3"	
 		}		
 	languages = { "l_english" } 
 	}	
@@ -207,8 +225,10 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "hoi_24header"
 		fontfiles = { 
-			"gfx/fonts/hoi_24header"		
-			"gfx/fonts/Arial_20s"	
+			"gfx/fonts/hoi_24header"	
+			"gfx/fonts/Arial_20s_1"	
+			"gfx/fonts/Arial_20s_2"	
+			"gfx/fonts/Arial_20s_3"	
 		}		
 	languages = { "l_english" } 
 	}			
@@ -217,7 +237,10 @@ bitmapfonts = {
 		name = "hoi_30header"
 		fontfiles = { 
 			"gfx/fonts/hoi_30header"
-			"gfx/fonts/Arial_26s"	
+			"gfx/fonts/Arial_26s_1"	
+			"gfx/fonts/Arial_26s_2"		
+			"gfx/fonts/Arial_26s_3"		
+			"gfx/fonts/Arial_26s_4"		
 		}		
 	languages = { "l_english" } 
 	}			
@@ -226,7 +249,10 @@ bitmapfonts = {
 		name = "hoi_36header"
 		fontfiles = { 
 			"gfx/fonts/hoi_36header"
-			"gfx/fonts/Arial_26s"	
+			"gfx/fonts/Arial_26s_1"	
+			"gfx/fonts/Arial_26s_2"		
+			"gfx/fonts/Arial_26s_3"		
+			"gfx/fonts/Arial_26s_4"		
 		}	
 	languages = { "l_english" } 
 	}	
@@ -235,7 +261,9 @@ bitmapfonts = {
 		name = "hoi_22tech"
 		fontfiles = { 
 			"gfx/fonts/hoi_22tech"		
-			"gfx/fonts/Arial_20"	
+			"gfx/fonts/Arial_20_1"	
+			"gfx/fonts/Arial_20_2"	
+			"gfx/fonts/Arial_20_3"	
 		}		
 	languages = { "l_english" } 
 	}	
@@ -244,7 +272,9 @@ bitmapfonts = {
 		name = "hoi_33"
 		fontfiles = { 
 			"gfx/fonts/hoi_33"	
-			"gfx/fonts/Arial_26"		
+			"gfx/fonts/Arial_26_1"	
+			"gfx/fonts/Arial_26_2"	
+			"gfx/fonts/Arial_26_3"		
 		}		
 	languages = { "l_english" } 
 	}	
@@ -253,7 +283,9 @@ bitmapfonts = {
 		name = "hoi_arrow_font"
 		fontfiles = { 
 			"gfx/fonts/hoi_arrow_font"	
-			"gfx/fonts/Arial_26"	
+			"gfx/fonts/Arial_26_1"	
+			"gfx/fonts/Arial_26_2"	
+			"gfx/fonts/Arial_26_3"		
 		}		
 	languages = { "l_english" } 
 	}	
@@ -290,6 +322,22 @@ bitmapfonts = {
 		name = "tahoma_60"
 		fontfiles = { 
 			"gfx/fonts/hoi_mapfont4"
+			"gfx/fonts/hoi_mapfont4_1"
+			"gfx/fonts/hoi_mapfont4_2"
+			"gfx/fonts/hoi_mapfont4_3"
+			"gfx/fonts/hoi_mapfont4_4"
+			"gfx/fonts/hoi_mapfont4_5"
+			"gfx/fonts/hoi_mapfont4_6"
+			"gfx/fonts/hoi_mapfont4_7"
+			"gfx/fonts/hoi_mapfont4_8"
+			"gfx/fonts/hoi_mapfont4_9"
+			"gfx/fonts/hoi_mapfont4_10"
+			"gfx/fonts/hoi_mapfont4_11"
+			"gfx/fonts/hoi_mapfont4_12"
+			"gfx/fonts/hoi_mapfont4_13"
+			"gfx/fonts/hoi_mapfont4_14"
+			"gfx/fonts/hoi_mapfont4_15"
+			"gfx/fonts/hoi_mapfont4_16"
 			"gfx/fonts/mapfont_chn_0"
 			"gfx/fonts/mapfont_chn_1"	
 			"gfx/fonts/mapfont_chn_2"	

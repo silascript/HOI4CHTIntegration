@@ -5,7 +5,9 @@ bitmapfonts = {
 #		path = "gfx/fonts/hoi_30header"
 		fontfiles = { 
 			"gfx/fonts/hoi_30header"
-			"gfx/fonts/Arial_26"
+			"gfx/fonts/Arial_26_1"
+			"gfx/fonts/Arial_26_2"
+			"gfx/fonts/Arial_26_3"
 #			"gfx/fonts/hoi_20bs"
 #			"gfx/fonts/hoi_20bs_cryllic"
 		}		
@@ -34,7 +36,9 @@ bitmapfonts = {
 #		path = "gfx/fonts/hoi_24header"
 		fontfiles = { 
 			"gfx/fonts/hoi_24header"		
-			"gfx/fonts/Arial_20"
+			"gfx/fonts/Arial_20_1"
+			"gfx/fonts/Arial_20_2"
+			"gfx/fonts/Arial_20_3"
 #			"gfx/fonts/hoi_20bs"
 #			"gfx/fonts/hoi_20bs_cryllic"
 		}		
