@@ -1,5 +1,5 @@
 name="ChineseLocalizationIntegration"
-path="mod/chli/"
+path="mod/chtin/"
 tags={
 	"Translation"
 }
