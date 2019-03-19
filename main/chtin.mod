@@ -1,4 +1,4 @@
-name="ChineseLocalizationIntegration"
+name="ChineseTraditionLocalizationIntegration"
 path="mod/chtin/"
 tags={
 	"Translation"
