@@ -1,0 +1,8 @@
+﻿
+52漢化Mod爲基礎自制繁體中文漢化Mod
+
+使用:
+
+1.將main目錄下chli.mod及同名的文件夾複製到遊戲主目錄下的mod
+2.開啓遊戲勾選"ChineseLocalizationIntegration"這個Mod
+
