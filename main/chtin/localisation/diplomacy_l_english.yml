@@ -517,7 +517,7 @@
  fabricate_claim_general_desc:0 "當把別人的土地宣稱正當化後我們可以得到人民對戰爭的支持。"
  spy_fabricate_claim_desc:0 "$SPY|H$正在正當化對$TARGET|Y$的$STATE|Y$地區的宣稱。\n已經進展了$PROGRESS|G%1$。"
  DIPLOMACY_ESPIONAGE_SELECT_STATE:0 "選取任務省份"
- DIPLOMACY_ESPIONAGE_FABRICATE_CLAIM_IN_STATE:0 "派$SPY|Y$偽造$STATE|Y$的宣稱。"
+ DIPLOMACY_ESPIONAGE_FABRICATE_CLAIM_IN_STATE:0 "派$SPY|Y$僞造$STATE|Y$的宣稱。"
  NO_FACTION:0 ""
  WARGOAL_THREAT_VALUE:0 "正當化這個戰爭目標會使全球緊張度提高$VALUE|Y%0$。"
  FACTION:0 "陣營"
