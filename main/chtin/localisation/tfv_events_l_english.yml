@@ -357,7 +357,7 @@
  AST_CREATE_FACTION:0 "我們將建立自己的陣營。"
  SAF_colonies_tt:0 "釋放§Y肯尼亞§!和§Y津巴布韋§!爲傀儡國。"
  SAF_soviet_research_tt:0 "與南非簽訂研究協議。"
- tfv_raj_focus_paratrooper_tt:0 "自由印度營的傘兵部隊將部署於意大利。"
+ tfv_raj_focus_paratrooper_tt:0 "自由印度營的傘兵部隊將部署於義大利。"
  tfv_raj.201.t:0 "自由印度營"
  tfv_raj.201.desc:0 "從戰俘中招募並組建的自由印度營士兵宣誓，他們願意爲印度的自由獻出自己的生命。在進行滲透和破壞訓練之後，這些精英戰士也能夠用使用降落傘空投到敵軍後方進行破壞。"
  tfv_raj.201.a:0 "打擊從天而降，兄弟們！"
