@@ -26,7 +26,7 @@
  RESEARCH_EXCLUSIVE_INFO_ENTRY:0 "$TECH|Y$"
  RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE:0 "§R該科技目前超前$YEARS|2$年。超前越多，研發受到的超前懲罰越大。§!"
  RESEARCH_YEAR_AHEAD_PENALTY:1 "§R該科技目前超前$YEARS|2$年（+$VALUE|%0$）。超前懲罰將會隨時間的過去而降低。§!"
- RESEARCH_YEAR_AHEAD_PENALTY_RED:2 "§R該科技目前超前$YEARS|2$年（+$VALUE|%0$），但由於國策影響，超前懲罰已減少$REDUCED_YEARS|.1$年（+$RED|%0$）。超前懲罰將會隨時間的過去而降低。§!"
+ RESEARCH_YEAR_AHEAD_PENALTY_RED:2 "§R該科技目前超前$YEARS|2$年（+$VALUE|%0$），但由於焦點影響，超前懲罰已減少$REDUCED_YEARS|.1$年（+$RED|%0$）。超前懲罰將會隨時間的過去而降低。§!"
  RESEARCH_TECH_UNUSED:1 "§G點擊選擇科研項目§!\n你有30日的時間來選定一個新的科研項目而不承受任何研發時間損失。"
  RESEARCH_NO_LONGER_AVAILABLE:0 "$RESEARCH|H$\n§R已經無效 - 會在下一日移除§!"
  RESEARCH_EQUIPMENT_HEADER:0 "裝備"
