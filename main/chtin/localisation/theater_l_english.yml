@@ -16,7 +16,7 @@
  ORDER_AREA_DEFENSE_STATE_VALID:0 "§G點擊§!向地區§Y下達§!區域防禦命令。"
  ORDER_AREA_DEFENSE_STATE_SELECTED:0 "§G點擊§!§Y取消§!地區的區域防禦命令。"
  ORDER_AREA_DEFENSE_STATE_INVALID:0 "§R無法向地區下達區域防禦命令§!"
- ORDER_PROV_TOOLTIP_FALLBACK_LINE:0 "- §G右鍵點擊§!並拖動選擇防禦區域。\n這種類型的防禦命令是§Y一次性命令§!，可以用來§Y保衞海岸§!，或為你的部隊指定§Y撤退後的防線§!。"
+ ORDER_PROV_TOOLTIP_FALLBACK_LINE:0 "- §G右鍵點擊§!並拖動選擇防禦區域。\n這種類型的防禦命令是§Y一次性命令§!，可以用來§Y保衞海岸§!，或爲你的部隊指定§Y撤退後的防線§!。"
  ORDER_PROV_TOOLTIP_DEFENSIVE_LINE:0 "- §G點擊§!在整個邊界上設定§Y防線§!。\n- §G右鍵點擊§!並拖動在這條邊界上設定§Y防線§!。"
  ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_ARMY_GROUP:0 " - §G點擊§!將整個邊界設成§Y防線§!。\n - §GShift+點擊§!將整個邊界設成§Y防線§!，同時不影響下屬集團軍的線。\n - §G右鍵點擊§!可在邊界上拖動§Y防線§!。\n - §GShift+右鍵點擊§!可在邊界上拖動§Y防線§!，同時不影響下屬集團軍的線。"
  ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_CANT:0 "§R你無法在這裏設定前線。§!\n請將你的鼠標移動至一條高亮的前線上。"
