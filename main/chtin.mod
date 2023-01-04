@@ -1,3 +1,4 @@
+version="1.12.*"
 name="Chinese Tradition Localization Integration"
 path="mod/chtin/"
 tags={
