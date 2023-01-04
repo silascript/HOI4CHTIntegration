@@ -1,5 +1,5 @@
 version="1.12.*"
-name="Chinese Tradition Localization Integration"
+name="Chinese Traditional Localization Integration"
 path="mod/chtin/"
 tags={
 	"Translation"
