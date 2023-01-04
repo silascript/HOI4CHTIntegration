@@ -3,4 +3,4 @@ path="mod/chtin/"
 tags={
 	"Translation"
 }
-supported_version="1.10.*"
+supported_version="1.12.*"

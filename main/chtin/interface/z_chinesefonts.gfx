@@ -351,22 +351,33 @@ bitmapfonts = {
 	}
 	
 	bitmapfont_override = {
-	name = "hoi4_typewriter16_inverted"
-	fontfiles = {
-	"gfx/fonts/hoi4_typewriter16_inverted"
-	"gfx/fonts/hoi_16typewriter_inverted"
-	"gfx/fonts/Arial_14b"
+		name = "hoi4_typewriter16_inverted"
+		fontfiles = {
+			"gfx/fonts/hoi4_typewriter16_inverted"
+			"gfx/fonts/hoi_16typewriter_inverted"
+			"gfx/fonts/Arial_14b"
 	}
-	languages = { "l_english" }
+		languages = { "l_english" }
 	}
 
 	bitmapfont_override = {
-	name = "hoi4_typewriter22_inverted"
-	fontfiles = {
-	"gfx/fonts/hoi4_typewriter22_inverted"
-	"gfx/fonts/hoi_22typewriter_inverted"
-	"gfx/fonts/Arial_20b"
+		name = "hoi4_typewriter22_inverted"
+		fontfiles = {
+			"gfx/fonts/hoi4_typewriter22_inverted"
+			"gfx/fonts/hoi_22typewriter_inverted"
+			"gfx/fonts/Arial_20b"
+		}
+		languages = { "l_english" }
 	}
-	languages = { "l_english" }
+
+	bitmapfont_override = {
+		name = "hoi_30"
+		fontfiles = { 
+			"gfx/fonts/hoi_30"	
+			"gfx/fonts/Arial_26_1"	
+			"gfx/fonts/Arial_26_2"	
+			"gfx/fonts/Arial_26_3"		
+		}
+		languages = { "l_english" }
 	}
-	}
+}
