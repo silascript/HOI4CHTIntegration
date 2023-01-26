@@ -335,7 +335,6 @@
  SCREENING_TOOLTIP_CAPITAL_BOX_COMBINED:1 "§Y主力艦§!的綜合掩護效率：$NUM|%.0H$"
  SCREENING_TOOLTIP_FOR_SCREEN_BOX:2 "目前您的$NUM_SCRE|.0H$艘§Y護衛艦§!正在護航$NUM_CAPI|.0H$艘§Y主力艦§!、$NUM_CARR|.0H$§Y航母§!與$NUM_CONV|.0H$§Y運輸艦§!，您需要$NUM_NEED|.0H$艘§Y護衛艦§!才能發揮完全的掩護效率。"
  SCREENING_TOOLTIP_FOR_CAPITAL_BOX:2 "目前您的$NUM_NEED|.0H$艘§Y主力艦§!正在護航$NUM_CARR|.0H$艘§Y航母§!與$NUM_CONV|.0H$§Y運輸艦§!，您需要$NUM_CAPI|.0H$艘§Y主力艦§!才能發揮完全的掩護效率。"
- SCREENING_TOOLTIP_BASE:0 "基礎值：$NUM|H.1$"
  SCREENING_TOOLTIP_LOW_INFO:1 "§Y掩護艦隊§!過少將導致掩護效率不足，您的艦隊可能會遭受敵方潛艇的偷襲。"
  SCREENING_TOOLTIP_BONUSES:1 "您的掩護效率提供§Y大型艦隊群§!的加成如下：\n"
  SCREENING_TOOLTIP_BONUSES_CAPITAL:1 "您的掩護效率提供§Y航母打擊群§!的加成如下：\n"
@@ -393,3 +392,5 @@
  PIERCING_THRESHOLD_ENTRY:0 "因裝甲厚度，敵方$NUM|H$個師對這個師造成$PIERCE_VALUE|%H$傷害"
  NON_PIERCING_THRESHOLD_ENTRY:0 "敵方$NUM|H$個師無法擊穿這個師的裝甲，造成$PIERCE_VALUE|%H$傷害"
  PIERCING_ENEMIES_THRESHOLD_ENTRY:0 "因裝甲厚度，這個師能對敵方$NUM|H$個師對造成$PIERCE_VALUE|%H$傷害"
+ COMBAT_LOG_FRIENDLY:0 "友軍部隊"
+ COMBAT_LOG_ENEMY:0 "敵方部隊"

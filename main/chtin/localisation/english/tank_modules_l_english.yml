@@ -205,7 +205,7 @@
  medium_tank_amphibious_chassis_3:0 "三級中型戰車底盤（兩棲）"
  medium_tank_amphibious_equipment_0:0 "初級中型兩棲戰車"
  basic_medium_tank_chassis:0 "一級中型戰車底盤"
- basic_medium_tank_chassis_short:0 "中型戰車底盤 - 1934"
+ basic_medium_tank_chassis_short:0 "中型戰車底盤 - 1938"
  basic_medium_tank_chassis_desc:0 "雖然輕型戰車近年來已經成為機械化部隊的中樞，但是它的發展潛力顯然已到達了極限。未來我們需要更大但仍能維持高機動性的載具。"
  improved_medium_tank_chassis:0 "二級中型戰車底盤"
  improved_medium_tank_chassis_short:1 "中型戰車底盤 - 1940"

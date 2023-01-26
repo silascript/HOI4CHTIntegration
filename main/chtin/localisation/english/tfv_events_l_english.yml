@@ -169,7 +169,7 @@
  tfv_canada.61.a:0 "海岸線是唯一的安全邊界！"
  tfv_canada.62.t:0 "帝國的流言蜚語"
  tfv_canada.62.d:0 "[From.GetNameDef]引用了他們日薄西山的「帝國權力」，聲稱必須需保護拉不拉多與紐芬蘭作為殖民地的地位，拒絕將我們的合法領土歸還！該地的人民是[Root.GetAdjective]人，而紐芬蘭和拉布拉多控制著[Root.GetAdjective]的資源，卻只能受[From.GetAdjective]的主子擺布。\n這是一個不可接受的事態，但很顯然我們不能用外交手段來說服[From.GetNameDef]了..."
- tfv_canada.62.a:1 "[ROOT.GetNameDefCap] will be one!"
+ tfv_canada.62.a:1 "[ROOT.GetNameDefCap]最終仍將統一！"
  mex_nationalists_chosen:0 "選擇民族主義者。"
  mex_republicans_chosen:0 "選擇共和主義者。"
  tfv_south_africa.1.t:0 "[From.GetNameDefCap]請求代管非洲"

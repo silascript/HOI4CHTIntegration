@@ -1427,7 +1427,7 @@
  modifier_trait_cavalry_leader_xp_gain_factor:0 "「騎兵領袖」經驗獲得"
  modifier_trait_cavalry_officer_xp_gain_factor:0 "「騎兵軍官」經驗獲得"
  modifier_trait_chief_engineer_xp_gain_factor:0 "「總工程師」經驗獲得"
- modifier_trait_combined_arms_expert_xp_gain_factor:0 "「聯合兵種專家 」經驗獲得"
+ modifier_trait_combined_arms_expert_xp_gain_factor:0 "「聯合作戰專家 」經驗獲得"
  modifier_trait_commando_xp_gain_factor:0 "「特種作戰專家」經驗獲得"
  modifier_trait_concealment_expert_xp_gain_factor:0 "「隱蔽專家」經驗獲得"
  modifier_trait_craven_xp_gain_factor:0 "「懦夫」經驗獲得"

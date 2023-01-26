@@ -346,3 +346,7 @@
  EQUIPMENT_DESIGNER_FOREIGN_FILTER:0 "§G點擊左鍵§!，即可根據供應商切換"
  EQUIPMENT_DESIGNER_OWN_FILTER:0 "§G點擊左鍵§!，即可根據設計切換敵方庫存\n\n你需要足夠的情報狀態才能檢視"
  EQUIPMENT_DESIGNER_OBSOLETE_FILTER:0 "§G點擊左鍵§!，即可根據退役狀態切換"
+ ship_designer_submarine:0 "$EQUIPMENT_SUBMARINE$"
+ ship_designer_capital_ship:0 "$EQUIPMENT_CAPITAL_SHIP$"
+ ship_designer_screen:0 "$EQUIPMENT_SCREEN$"
+ ship_designer_carrier:0 "$EQUIPMENT_CARRIER$"

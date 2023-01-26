@@ -111,7 +111,7 @@
  CHI_experimental_mechanised_unit:0 "機械化單位試驗計畫"
  CHI_experimental_mechanised_unit_effect:0 "獲得§G一支§!由§Y兩個§!§G戰車營§!§H（輕型）§!和§Y四個§!§G步兵營§!§H（摩步）§!組成的陸軍部隊。\n"
  CHI_experimental_mechanised_unit_desc:0 "軍事學家在歐洲已經爭論部署裝甲部隊的最佳方法已久，而配備機動步兵以及高速戰車的機動部隊是最佳的選擇，我們將會建立起一支如此部署的部隊。"
- CHI_combined_arms_warfare:0 "聯合兵種戰"
+ CHI_combined_arms_warfare:0 "聯合作戰"
  CHI_combined_arms_warfare_desc:0 "即便卡車很適合在現代機動戰術中作為試驗的先鋒，但他們缺乏裝甲的弱點使卡車在最前線有著不利的因素。"
  CHI_hire_soviet_designer:0 "聘請蘇聯設計師"
  CHI_hire_soviet_designer_desc:0 "蘇聯已經製造戰車數十年，他們擁有世界上最有經驗的戰車設計師團隊，我們可以雇用其中一位來為我們設計出適合我們的裝甲戰鬥車輛。"

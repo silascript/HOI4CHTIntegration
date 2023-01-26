@@ -1948,4 +1948,6 @@
  CANTCONTINUEGAME:0 "無法由上次的存檔「$SAVE$」繼續遊戲"
  CANTCONTINUEGAME_TITLE:0 "載入存檔失敗"
  PARADROP_PLANES_REQUIRED:0 "\n§R無法執行命令：§!\n還需要$WINGS|H$支運輸機聯隊。"
- RETAIN_CORES:0 "Retain States With Our Core"
+ RETAIN_CORES:0 "保留我方核心地區"
+ CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED:0 "§H顧問被聘用後將無法被解雇§!"
+ CHARACTER_ADVISOR_CANT_BE_FIRED:0 "§R無法解雇此顧問§!"

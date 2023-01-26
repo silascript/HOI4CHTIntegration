@@ -325,7 +325,7 @@
  ROM_heavy_interceptors:0 "重型戰鬥機"
  ROM_heavy_interceptors_desc:1 "我們國家無法承擔規模巨大的空軍。因此我們必須在每架飛機上集中盡可能多的火力來摧毀任何攻擊者。"
  ROM_ground_support:0 "陸空一體化"
- ROM_ground_support_desc:0 "聯合兵種作戰是現代戰爭的基本概念。必要時必須對空軍進行培訓，以支援我們的陸軍。"
+ ROM_ground_support_desc:0 "聯合作戰是現代戰爭的基本概念。空軍必須清楚知道陸軍需要什麼樣的支援。"
  ROM_medium_bombers:0 "戰術轟炸機"
  ROM_medium_bombers_desc:0 "軍隊可以在沒有看天空的情況下贏得戰爭的時代已經過去了。我們必須發展我們的戰術轟炸機，為我們的士兵提供所需的密接支援。"
  ROM_cas:0 "密接支援機"
