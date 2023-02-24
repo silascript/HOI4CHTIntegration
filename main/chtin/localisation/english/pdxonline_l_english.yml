@@ -33,7 +33,7 @@
  LAST_NAME:0 "姓名"
  LOGGED_IN:0 "已登入"
  LOGIN_DESCRIPTION:0 "通過使用登錄Paradox帳戶，你可享受線上玩遊玩,雲端保存,解鎖成就和更多新增功能等好處。"
- LOGIN_DESCRIPTION_BOLD:0 "登錄Paradox帳户以開始多人遊戲模式"
+ LOGIN_DESCRIPTION_BOLD:1 "登錄Paradox帳户以開始多人遊戲模式"
  LOGIN_EMAIL_INVALID:0 "§R你必須輸入有效的電子郵件§!"
  LOGIN_NO_EMAIL:0 "§R沒有填寫電子郵件§!"
  LOGIN_NO_PASSWORD:0 "§R沒有填寫密碼§!"

@@ -34,7 +34,7 @@
  STAT_ARMY_BREAKTHROUGH_VALUE:0 "$VALUE|H1$"
  STAT_ARMY_BREAKTHROUGH_DIFF:0 "$VALUE|=+1$"
  STAT_ARMY_HARDNESS:0 "裝甲比例："
- STAT_ARMY_HARDNESS_DESC:0 "§T§H裝甲比例§!代表一支§H部隊§!轄下擁有多少比例的戰甲車輛。\n\n由於地面部隊的攻擊形式可以細分為「§H反人員§!」與「§H反裝甲§!」兩種，因此§H裝甲比例§!的高低決定了己方所需承受的損失各有多少。而敵方對前者所能造成的傷害比例越高，對後者所能造成的傷害比例就越低 - 反之亦然§!"
+ STAT_ARMY_HARDNESS_DESC:0 "§T§H裝甲比例§!代表一支§H部隊§!轄下擁有多少比例的戰甲車輛。\n\n由於地面部隊的攻擊形式可以細分爲「§H反人員§!」與「§H反裝甲§!」兩種，因此§H裝甲比例§!的高低決定了己方所需承受的損失各有多少。而敵方對前者所能造成的傷害比例越高，對後者所能造成的傷害比例就越低 - 反之亦然§!"
  STAT_ARMY_HARDNESS_VALUE:0 "$VALUE|H1%$"
  STAT_ARMY_HARDNESS_DIFF:0 "$VALUE|=+1$"
  STAT_ARMY_SOFT_ATTACK:0 "攻擊（對人）："

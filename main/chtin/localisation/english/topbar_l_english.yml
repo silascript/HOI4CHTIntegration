@@ -8,7 +8,7 @@
  TOPBAR_TRADE:0 "經濟部"
  TOPBAR_TRADE_DESC:0 "通過貿易手段與他國交換戰略資源。"
  TOPBAR_PRODUCTION:0 "軍備局"
- TOPBAR_PRODUCTION_DESC:0 "通過一條或多條生產線，為精銳部隊生產作戰裝備。"
+ TOPBAR_PRODUCTION_DESC:0 "通過一條或多條生產線，爲精銳部隊生產作戰裝備。"
  TOPBAR_TECHNOLOGY:0 "科技部"
  TOPBAR_TECHNOLOGY_DESC:0 "研究 £tech_mod 科技，提升國力。"
  TOPBAR_DIPLOMACY:0 "外交部"

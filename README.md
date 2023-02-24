@@ -10,6 +10,8 @@
 「Chinese Traditional new」 漢化包地址：[https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122)
 
 
+修改部分繁體字形。如将「為」改成「爲」。
+
 ---
 
 ## 使用
