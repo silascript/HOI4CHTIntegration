@@ -2068,7 +2068,7 @@
  ETH_scavenger_random_generals_tt:0 "§Y3個§!隨機陸軍指揮官將獲得「§Y$scavenger$§!」的特性：\n－$MODIFIER_EQUIPMENT_CAPTURE_FACTOR$：§G+3%§!"
  ITA_defeat_in_ethiopia_flag:0 "[ITA.GetNameDefCap]在[ETH.GetNameDef]戰敗"
  ITA_ENG_must_control_necessary_states_tt:0 "§Y[ENG.GetNameWithFlag]§!再沒有控制英國歷史上在非洲之角和馬爾他的殖民地。"
- ITA_FRA_must_control_necessary_states_tt:0 "§Y[FRA.GetNameWithFlag]§!再沒有控制法國歷史上在吉布地和突尼西亞的殖民地。"
+ ITA_FRA_must_control_necessary_states_tt:0 "§Y[FRA.GetNameWithFlag]§!再沒有控制法國歷史上在吉布地和突尼斯的殖民地。"
  generic_ROOT_gains_wargoal_tt:0 "§Y[ROOT.GetFlag][ROOT.GetNameDef]§!獲取「§Y$annex_everything$§!」的戰爭目標來對抗：\n"
  ITA_all_roads_lead_to_rome_wargoals_tt:0 "§Y[ROOT.GetNameWithFlag]§!獲取「§Y$annex_everything$§!」的戰爭目標來對抗§Y不友善的歐洲鄰國§!。"
  SWI_size_and_opinion_chance_tooltip:0 "\n他們將基於我軍的§Y規模§!和他們對我們的§Y觀感§!來作爲接受的條件。"

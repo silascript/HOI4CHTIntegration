@@ -559,7 +559,7 @@
  wtt_china_shared.12.a:0 "派史迪威將軍"
  wtt_china_shared.12.b:0 "他們必須靠自己"
  wtt_china_shared.12.c:0 "派麥克阿瑟將軍"
- wtt_china_shared.12.d:0 "派遣德懷特·艾森豪"
+ wtt_china_shared.12.d:0 "派遣德懷特·艾森豪威爾"
  wtt_china_shared.13.t:0 "[CHI_USA_General.GetName]來到中國"
  wtt_china_shared.13.desc:0 "[From.GetLeader][CHI_USA_General.GetName]將軍已接受我們的援助請求並儘快趕到中國。\n\n將軍不應該僅僅是[Root.GetLeader]的顧問，而是指揮現場的部隊，給他一些第一手的戰爭情報。"
  wtt_china_shared.13.a:0 "一個很有價值的補充。"

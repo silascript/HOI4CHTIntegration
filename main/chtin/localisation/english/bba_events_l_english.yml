@@ -1390,7 +1390,7 @@
  BBA_italy_interaction_events.33.desc:1 "[GetItalyWantsSocotra]"
  BBA_italy_interaction_events.33.a:0 "爲了和平，這只是小小的代價"
  BBA_italy_interaction_events.33.b:0 "他們有什麼理由獲得這些土地？"
- BBA_italy_interaction_events.34.t:1 "[ITA.GetName]希望協商對突尼西亞的宣稱"
+ BBA_italy_interaction_events.34.t:1 "[ITA.GetName]希望協商對突尼斯的宣稱"
  BBA_italy_interaction_events.34.desc:1 "[GetItalyWantsTunisia]"
  BBA_italy_interaction_events.34.a:0 "好的"
  BBA_italy_interaction_events.34.b:0 "絕不！"

@@ -371,7 +371,7 @@
  mtg_usa_pacific_pacification.1.t:1 "[USA.GetNameDefCap]要求掌控殖民地"
  mtg_usa_pacific_pacification.1.desc_a:0 "[USA.GetAdjective]政府代表團已到訪以討論我們在太平洋地區的領土安全。注意到中國的持續不穩定和日本的局勢，[USA.GetLeader]總統願意承擔起防衛[GET_AUSTRALIA_NEW_ZEALAND_STATUS]的責任，以換取一些特權和保留權利。\n\n  雖然[USA.GetAdjective]聲稱這些權利僅用於確保[GET_AUSTRALIA_NEW_ZEALAND_STATUS]的安全，但政府中的許多人認爲它會使[GET_AUSTRALIA_NEW_ZEALAND_STATUS]變得和傀儡國差不多。"
  mtg_usa_pacific_pacification.1.desc_b:0 "[USA.GetAdjective]政府的代表團已抵達以討論我們共同防衛的計劃。似乎[USA.GetLeader]總統認爲我們這一小塊區域對[USA.GetNameDef]的安全至關重要。然而，除了向我們提供援助的簡單的保證之外，[USA.GetAdjective]政府希望確保我們自身不會成爲一個威脅。因此，合約附帶了一些條款，將允許[USA.GetNameDef]在我們如何處理內部事務時有重要的決定權。\n\n雖然並沒有在談判中威脅開戰，很明顯[USA.GetLeader]總統會把我們的拒絕看作是充滿敵意的行爲。"
- AST_NZL_PUPPET:0 "澳洲與紐西蘭"
+ AST_NZL_PUPPET:0 "澳洲與新西蘭"
  AST_NZL_NO_PUPPET_FALLBACK:0 "南太平洋地區的國家"
  mtg_usa_pacific_pacification.1.a:1 "他們當然不會干涉內部事務"
  mtg_usa_pacific_pacification.1.b:1 "我們可以保護好這些地區"
