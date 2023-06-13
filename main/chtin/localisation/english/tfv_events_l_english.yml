@@ -445,7 +445,7 @@
  AST_CREATE_FACTION:0 "我們將建立我們自己的陣營。"
  SAF_colonies_tt:0 "解放§Y肯亞§!和§Y津巴布韋§!成爲我們的傀儡。"
  SAF_soviet_research_tt:0 "與南非簽訂研究協議。"
- tfv_raj_focus_paratrooper_tt:0 "印度國民軍傘兵部隊將在義大利進行訓練。"
+ tfv_raj_focus_paratrooper_tt:0 "印度國民軍傘兵部隊將在意大利進行訓練。"
  tfv_raj.201.t:0 "印度國民軍"
  tfv_raj.201.desc:0 "印度國民軍是由戰俘招募而成的，士兵們已宣誓奉獻一生來追求印度的自由。受過破壞和滲透的訓練，這些精英士兵也能夠通過降落傘落到敵人後方痛擊他們。"
  tfv_raj.201.a:0 "從天空襲擊，兄弟們！"
