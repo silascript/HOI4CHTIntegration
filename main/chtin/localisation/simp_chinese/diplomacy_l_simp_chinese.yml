@@ -704,7 +704,7 @@
  NO_NATIONAL_FOCUS:0 "尚未設置國家戰略"
  UNKNOWN_INFO:0 "未知的國家戰略"
  INTEL_IS_TOO_LOW_LOW:1 "己方解密能力太低，無法獲取有關目前國家國家戰略的進度訊息。"
- INTEL_IS_TOO_LOW:1 "己方解密能力太低，無法獲取有關目前國家已經完成的國家戰略樹的訊息。"
+ INTEL_IS_TOO_LOW:1 "己方解密能力太低，無法獲取有關目前國家已經完成的國家國策樹的訊息。"
  justifying_war_goal:0 "戰爭目標"
  DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY:0 "傀儡國與宗主國之間無法製造戰爭目標。"
  DIPLOMACY_DEM_NO_THREAT_JUSTIFYING_WAR:0 "民主國家無法正當化戰爭目標於未製造全球緊張度的國家上。"

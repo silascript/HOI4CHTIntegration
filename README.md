@@ -2,21 +2,31 @@
 
 ---
 
+## 简介
 
 繁體中文漢化整合 Mod
 
-更换使用繁體中文漢化包作为底包。
+使用繁體中文漢化包 [Chinese Traditional new](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122) 作为底包。
 
-「Chinese Traditional new」 漢化包地址：[https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122)
+「Chinese Traditional new」 漢化包地址：[https://steamcommunity.com/sharedfiles/filedetails/?id=2662885121](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122)
 
 ---
 
-## 调整修改
+## 調整修改
 
-修改部分繁體字形：
+
+### 文本内容調整
+
+#### 部分繁體字形調整
+
 * 如將「為」改成「爲」、「偽」改爲「僞」。
 
-修改部分臺式翻譯：
+#### 部分選項名稱調整
+
+* 「戰略樹」改爲「國策樹」
+
+#### 部分國名地名人名翻譯調整
+
 * 「義大利」改爲「意大利」
 * 「衣索比亞」改爲「埃塞俄比亞」
 * 「波夕」改爲「博伊西」
@@ -53,7 +63,11 @@
 * 「聖皮耶與密克隆」改爲「聖皮埃爾和密克隆」
 * 「貝里斯」改爲「伯利兹」
 * 「葛摩」改爲「科摩羅」
+* 「沙烏地阿拉伯」改爲「沙特阿拉伯」
+* 「約瑟夫·史達林」改爲「約瑟夫·斯大林」
+* 「約瑟夫· 維薩里奧諾維奇· 史達林」改爲「約瑟夫· 維薩里奧諾維奇· 斯大林」
 * 「德懷特·大衛·艾森豪」改爲「德懷特·戴維·艾森豪威爾」
+* 「德懷特· 大衛· 艾森豪」改爲「德懷特· 戴維· 艾森豪威爾」
 
 > [!tip] 部分譯名保留
 > 
@@ -64,6 +78,16 @@
 > 「土庫曼」，因为歷史原因也没更改（「土庫曼斯坦」这國名是1991年才换的）；
 > 
 > 「科特迪瓦」是1985年后才使用的音譯名，所以保留「象牙海岸」的称謂。
+
+
+### 字體使用
+
+中文设置下，使用官方原版`core_chinese.gfx`文件为底件，修改部分字體设置。
+
+修改的字體设置：
+* `tahoma_60`：這個是地圖國名字體，原版實在是太醜了，必須換掉
+* `hoi4_typewriter16_inverted`：這個是部隊編制屬性項字體，原版字太小，也得換
+
 
 
 ---
@@ -78,3 +102,10 @@
 使用 [Chines Traditional new](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122) 适配 1.12.14版本的底包进行更新。
 
 因为钢4 从1.12.13版本开始推出简体中文版，所以繁体汉化包为了兼容简体中文，作了点小小「调整」。
+
+---
+
+## 相关链接
+
+[Chinese Traditional new](https://steamcommunity.com/sharedfiles/filedetails/?id=2662885122)
+

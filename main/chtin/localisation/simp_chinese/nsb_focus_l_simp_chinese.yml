@@ -864,7 +864,7 @@
  POL_unite_west_slavia:0 "統一波希米亞"
  POL_unite_west_slavia_desc:0 "隨著我們的國王同時登上了波蘭和波希米亞的王座，我們需要合併波蘭和波希米亞政府的內政部門，這樣才能實現西斯拉夫團結的夢想。"
  POL_restore_poland_hungary_tt:0 "如果同意，他們將與我們建立§Y共主邦聯§!，同時在名義上維持獨立。"
- polish_focus:0 "波蘭戰略樹"
+ polish_focus:0 "波蘭國策樹"
  walery_slawek_is_dead:0 "$POL_walery_slawek$逝世"
  POL_hungary_exists_no_vojvodina_tt:0 "§Y$HUN$§! $TRIGGER_EXISTS$"
  POL_hungary_scope_no_vojvodina_tt:0 "@HUN §Y$HUN$§!："

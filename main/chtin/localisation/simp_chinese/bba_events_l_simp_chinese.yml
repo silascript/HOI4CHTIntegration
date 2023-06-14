@@ -2056,7 +2056,7 @@
  BBA_italy_interaction_events.71.t:0 "An Italian Proposal"
  BBA_italy_interaction_events.71.desc:0 "An envoy from [ITA.GetNameDef] has approached us, inquiring if we are willing to set aside our differences and form a new government under Italian oversight. The envoy have let us know that they will proceed to set up a new administration in our homeland, with or without our cooperation. Should we refuse this offer, we will be overlooked by the rest of the world in favor of this new administration."
  BBA_italy_interaction_events.71.a:0 "There’s not much we can do"
- ITA_create_puppet_tt:0 "§Y[ROOT.GetNameWithFlag]§!將獲得新的§Y戰略樹§!"
+ ITA_create_puppet_tt:0 "§Y[ROOT.GetNameWithFlag]§!將獲得新的§Y國策樹§!"
  BBA_italy_interaction_events.71.b:0 "We still have our pride!"
  BBA_italy_interaction_events.72.t:0 "The [FROM.GetAdjective] Leaves"
  BBA_italy_interaction_events.72.desc:0 "[FROM.GetLeader], the leader of the exiled [FROM.GetAdjective]s, paid a discreet visit to  [ROOT.GetLeader]’s private residence last night to quietly inform of his decision to accept an offer by the Italians to form a new government under their regime. He thanked us for our generosity in these troubling times, but said that he needs to look out for what’s best for his people."

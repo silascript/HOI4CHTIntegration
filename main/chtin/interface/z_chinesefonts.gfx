@@ -39,6 +39,7 @@ bitmapfonts = {
 			"gfx/fonts/Arial_20_3"	
 		}
 	languages = { "l_english" } 
+	}
 	
 	bitmapfont_override = {
 		name = "messagelog"

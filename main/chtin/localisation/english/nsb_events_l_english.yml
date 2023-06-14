@@ -847,7 +847,7 @@
  NSB_soviet_foreign_politics_events.210.a:0 "試著與他們打仗是徒勞的。"
  NSB_soviet_foreign_politics_events.210.c:0 "要打就來吧！"
  NSB_soviet_foreign_politics_events.211.t:0 "哈基莫夫提案"
- NSB_soviet_foreign_politics_events.211.desc:0 "蘇聯總領事卡里姆·哈基莫夫正加倍努力地改善蘇聯與沙烏地阿拉伯的關係。哈基莫夫是一位韃靼裔的蘇聯穆斯林，他在1926年二月時曾從吉達孤身駕車穿越戰區，前往伊本·沙烏地蘇丹在沙漠中的駐地，以遞交正式承認伊本·沙烏地成爲漢志國王與內志蘇丹的外交書信。他因而贏得了伊本·沙烏地的尊重與友誼。自從那時起，哈基莫夫就是改善蘇阿關係的主要推手。他稱得上的是蘇聯版阿拉伯的勞倫斯。"
+ NSB_soviet_foreign_politics_events.211.desc:0 "蘇聯總領事卡里姆·哈基莫夫正加倍努力地改善蘇聯與沙特阿拉伯的關係。哈基莫夫是一位韃靼裔的蘇聯穆斯林，他在1926年二月時曾從吉達孤身駕車穿越戰區，前往伊本·沙烏地蘇丹在沙漠中的駐地，以遞交正式承認伊本·沙烏地成爲漢志國王與內志蘇丹的外交書信。他因而贏得了伊本·沙烏地的尊重與友誼。自從那時起，哈基莫夫就是改善蘇阿關係的主要推手。他稱得上的是蘇聯版阿拉伯的勞倫斯。"
  NSB_soviet_foreign_politics_events.211.a:0 "哈基莫夫的提案或許很友善，但我們必須警覺蘇聯的野心。"
  NSB_soviet_foreign_politics_events.250.t:0 "[FROM.GetNameDefCap]送來軍事援助"
  NSB_soviet_foreign_politics_events.250.desc:0 "一支[FROM.GetAdjective]運輸隊抵達了我方戰線，他們運來了大量的步兵與各種補給物資。我們不知道下一支運輸隊何年何月才會出發，因此我們最好把它當作最後一次的補給。"
